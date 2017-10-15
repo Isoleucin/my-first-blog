@@ -25,7 +25,7 @@ SECRET_KEY = 'rf-o+b4w+qdv3vu#+k(**@#vb=c69*$0zwmghbma@45j-w3ufj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [isoleucin.pythonanywhere.com]
+ALLOWED_HOSTS = ['isoleucin.pythonanywhere.com']
 
 
 # Application definition
